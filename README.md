@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/mriyaz/Intro-component-with-signup-form-challenge)
+- [Solution URL](https://github.com/mriyaz/Intro-component-with-sign-up-form-challenge)
 - [Live Site URL](https://intro-component-with-sign-up-form-challenge.vercel.app/)
 
 ## My process
